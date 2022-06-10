@@ -204,3 +204,10 @@ li{
     padding:0 30px;
     /* justify-self: center; */
 }
+.footer{
+    text-align: center;
+    padding:50px;
+    font-size:18px;
+    color:#E5E7EB;
+    /* height:80px; */
+}
