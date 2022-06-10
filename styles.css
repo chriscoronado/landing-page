@@ -179,3 +179,28 @@ li{
     font-weight: 800;
     text-align: right;
 }
+.cta{
+    font-size: 25px;
+    /* max-height:100px; */
+    color:white;
+    border-radius: 9px;
+    display:flex;
+    justify-content: space-between;
+    margin:100px 250px;
+    background-color: #3882F6;
+    padding:50px 110px;
+}
+.sub-title{
+ font-size: 18px;
+ filter:contrast(.65)
+}
+.sign-up-cta{
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #3882F6;
+    color:white;
+    border:2px solid white;
+    border-radius:9px;
+    padding:0 30px;
+    /* justify-self: center; */
+}
